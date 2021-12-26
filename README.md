@@ -77,11 +77,6 @@
 
 ## How To Use It?
 
-### Video Demo
-
-<a href="http://www.youtube.com/watch?v=3C1Du32FNLo" target="_blank"><img src="http://img.youtube.com/vi/3C1Du32FNLo/0.jpg" 
-alt="Video Demo" width="240" height="180" border="10" /></a>
-
 ### Requirements
 
 1. Download Floodlight (v1.2) / OpenDaylight (Beryllium SR1)
@@ -110,8 +105,6 @@ alt="Video Demo" width="240" height="180" border="10" /></a>
 	```
 	
 	*Note: Provide correct path to topology.py in command*
-	
-	![alt tag](https://raw.githubusercontent.com/nayanseth/sdn-floodlight-loadbalancing/master/assets/topologies/fat-tree-topology.png)
 	
 	*Note: Switch ID have been added next to Switches. Numbers near the links are the port numbers. These port numbers may change when you run mininet. For us this is the port numbers. From now on all references in the code will be with respect to this topology*
 
